@@ -102,7 +102,7 @@
 
 ---
 
-## 💡 BSD 학생들을 위한 특별 기능
+## 💡 BSD 수강생들을 위한 특별 기능
 
 ### 1. 한국 시장 특화
 - 한글 폰트 최적화 (Pretendard, Spoqa Han Sans)
@@ -131,7 +131,7 @@
 
 ## 🛠️ 기술 스택
 
-이 Skills는 다음 도구들을 활용합니다:
+이 Skills은 다음 도구들을 활용합니다:
 
 ### 노코드/로코드
 - **Framer**: 랜딩페이지, 프로토타입
@@ -151,25 +151,6 @@
 - **React/Next.js**: 프론트엔드 프레임워크
 - **Node.js/Express**: 백엔드
 - **TailwindCSS**: CSS 프레임워크
-
----
-
-## 📖 학습 경로 추천
-
-### 초급 (1-2주차)
-1. Landing Page Builder로 첫 웹페이지 제작
-2. Figma to Code로 디자인 구현 연습
-3. 간단한 폼 + 자동화 연동
-
-### 중급 (3-4주차)
-1. AI Chatbot으로 고객 응대 자동화
-2. Automation Workflow로 업무 효율화
-3. 여러 도구 통합한 복합 프로젝트
-
-### 고급 (5-8주차)
-1. Payment Integration으로 수익화
-2. 전체 퍼널 구축 (랜딩 → 챗봇 → 결제)
-3. 클라이언트 프로젝트 수주 및 납품
 
 ---
 
@@ -235,9 +216,9 @@ BSD 바이브코딩 센터는 수강생 여러분의 피드백을 환영합니�
 - 오류 또는 개선사항 제보
 
 ### 연락처
-- 📧 Email: [contact@bsdvibecoding.com]
+- 📧 Email: [info@bsdclasses.com]
 - 💬 Slack: BSD 코딩 커뮤니티
-- 🌐 Website: [www.bsdvibecoding.com]
+- 🌐 Website: [https://www.bsdclass.co.kr]
 
 ---
 
@@ -277,14 +258,14 @@ cd skills/landing-page-builder
 
 ### 공식 문서
 - [Anthropic Claude Skills 가이드](https://docs.anthropic.com/en/docs/build-with-claude/skills)
-- [바이브코딩 온라인 강의](https://bsdvibecoding.com/courses)
+- [바이브코딩 온라인 강의](https://litt.ly/bsd_class)
 
 ### 추천 도서
-- "바이브코딩 설계자" - 퍼널띵 저
-- (기타 5권의 저서들)
+- "AI 바이브코딩 설계자" - 퍼널띵 저
+- (기타 6권의 저서들)
 
 ### 커뮤니티
-- BSD 바이브코딩 슬랙 채널
+- BSD 바이브코딩 카페 https://cafe.naver.com/atomy5
 - 오프라인 마스터클래스 (매월 개강)
 
 ---
