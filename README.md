@@ -262,7 +262,7 @@ cd skills/landing-page-builder
 
 ### 추천 도서
 - "AI 바이브코딩 설계자" - 퍼널띵 저
-- (기타 6권의 저서들)
+- (기타 6권의 저서들)https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&x_csa=%7B%22workType%22%3A%22book%22%2C%22fromUi%22%3A%22kb%22%7D&pkid=1&os=17722223&qvt=0&query=%ED%8D%BC%EB%84%90%EB%9D%B5%20%EB%8F%84%EC%84%9C
 
 ### 커뮤니티
 - BSD 바이브코딩 카페 https://cafe.naver.com/atomy5
